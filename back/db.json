@@ -1,0 +1,413 @@
+{
+  "categories": [ 
+    {
+      "id": 1,
+      "name": "Development1",
+      "noOfCourses": 23,
+      "thumbnail": "images/laptop.jpg",
+      "courses": [
+        {
+          "id": 1,
+          "name": "Flutter1 ",
+          "completedPercentage": 0.2,
+          "author": "DevWheels",
+          "thumbnail": "images/flutter.jpg",
+          "lessons": [
+            {
+              "id": 1,
+              "name": "Why Flutter Development3",
+              "duration": "11 min 20 sec",
+              "isCompleted": true,
+              "path_video": "https://www.youtube.com/watch?v=feQhHStBVLE",
+              "isPlaying": true
+            },
+            {
+              "id": 2,
+              "name": "Setup Flutter on MacOS",
+              "duration": "10 min 11 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "https://www.youtube.com/watch?v=YMx8Bbev6T4",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 3,
+              "name": "Setup Flutter on Windows",
+              "duration": "7 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "https://www.youtube.com/watch?v=YMx8Bbev6T4",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 4,
+              "name": "Introduction to Flutter widgets.",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 5,
+              "name": "What are Stateless Widgets?",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 6,
+              "name": "What are Statefull Widgets?",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "React Novice to Ninja",
+          "completedPercentage": 0.6,
+          "author": "DevWheels",
+          "thumbnail": "images/react.jpg",
+          "lessons": [
+            {
+              "id": 7,
+              "name": "Why React Development",
+              "duration": "11 min 20 sec",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 8,
+              "name": "Setting up React Development Environment",
+              "duration": "10 min 11 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 9,
+              "name": "React Components",
+              "duration": "7 min",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 10,
+              "name": "React Props",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 11,
+              "name": "React State",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Node - The complete guide",
+          "completedPercentage": 0.75,
+          "author": "DevWheels",
+          "thumbnail": "images/node.png",
+          "lessons": [
+            {
+              "id": 12,
+              "name": "Why Node Development",
+              "duration": "11 min 20 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "id": 2,
+      "name": "Development2",
+      "noOfCourses": 51,
+      "thumbnail": "images/laptop.jpg",
+      "courses": [
+        {
+          "id": 1,
+          "name": "Flutter 2",
+          "completedPercentage": 0.75,
+          "author": "DevWheels",
+          "thumbnail": "images/flutter.jpg",
+          "lessons": [
+            {
+              "id": 1,
+              "name": "Why Flutter Development",
+              "duration": "11 min 20 sec",
+              "isCompleted": true,
+              "isPlaying": true
+            },
+            {
+              "id": 2,
+              "name": "Setup Flutter on MacOS",
+              "duration": "10 min 11 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 3,
+              "name": "Setup Flutter on Windows",
+              "duration": "7 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 4,
+              "name": "Introduction to Flutter widgets.",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 5,
+              "name": "What are Stateless Widgets?",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 6,
+              "name": "What are Statefull Widgets?",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "React js",
+          "completedPercentage": 0.6,
+          "author": "DevWheels",
+          "thumbnail": "images/react.jpg",
+          "lessons": [
+            {
+              "id": 7,
+              "name": "Why React Development",
+              "duration": "11 min 20 sec",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 8,
+              "name": "Setting up React Development Environment",
+              "duration": "10 min 11 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 9,
+              "name": "React Components",
+              "duration": "7 min",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 10,
+              "name": "React Props",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 11,
+              "name": "React State",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Node - The complete guide",
+          "completedPercentage": 0.75,
+          "author": "DevWheels",
+          "thumbnail": "images/node.png",
+          "lessons": [
+            {
+              "id": 12,
+              "name": "Why Node Development",
+              "duration": "11 min 20 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "accounting",
+      "noOfCourses": 55,
+      "thumbnail": "images/accounting.jpg",
+      "courses": [
+        {
+          "id": 1,
+          "name": "micro economics ",
+          "completedPercentage": 0.75,
+          "author": "DevWheels",
+          "thumbnail": "images/accounting.jpg",
+          "lessons": [
+            {
+              "id": 1,
+              "name": "Why micro economics",
+              "duration": "11 min 20 sec",
+              "isCompleted": true,
+              "isPlaying": true
+            },
+            {
+              "id": 2,
+              "name": "money",
+              "duration": "10 min 11 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 3,
+              "name": "derivee",
+              "duration": "7 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 4,
+              "name": "introduction.",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 5,
+              "name": "another economy lesson from the backend",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 6,
+              "name": "another economy lesson?",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "React Novice to Ninja",
+          "completedPercentage": 0.6,
+          "author": "DevWheels",
+          "thumbnail": "images/react.jpg",
+          "lessons": [
+            {
+              "id": 7,
+              "name": "Why React Development",
+              "duration": "11 min 20 sec",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 8,
+              "name": "Setting up React Development Environment",
+              "duration": "10 min 11 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            },
+            {
+              "id": 9,
+              "name": "React Components",
+              "duration": "7 min",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 10,
+              "name": "React Props",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false
+            },
+            {
+              "id": 11,
+              "name": "React State",
+              "duration": "5 min",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Node - The complete guide",
+          "completedPercentage": 0.75,
+          "author": "DevWheels",
+          "thumbnail": "images/node.png",
+          "lessons": [
+            {
+              "id": 12,
+              "name": "Why Node Development",
+              "duration": "11 min 20 sec",
+              "isCompleted": false,
+              "isPlaying": false,
+              "path_video": "http://youtube",
+              "pdf": "mm.pdf"
+            }
+          ]
+        }
+      ]
+    }
+
+   
+    
+  ]
+}
